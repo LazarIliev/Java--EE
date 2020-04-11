@@ -1,0 +1,15 @@
+filters\DateFilter.class
+services\ViewsProvider.class
+services\implementations\GsonJsonParser.class
+entities\Item.class
+services\implementations\ViewsProviderImpl.class
+services\UsersService.class
+web\UsersServlet.class
+constants\ViewConstants.class
+viewmodels\HomeViewModel.class
+web\UsersApiServlet.class
+web\HomeServlet2.class
+services\JsonParser.class
+web\HomeServlet.class
+services\implementations\UsersServiceImpl.class
+entities\User.class
